@@ -1,0 +1,19 @@
+{
+  "name": "expresscrudapi",
+  "version": "1.0.0",
+  "description": "express crud api ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccatto/expressCRUDapi.git"
+  },
+  "author": "Catto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccatto/expressCRUDapi/issues"
+  },
+  "homepage": "https://github.com/ccatto/expressCRUDapi#readme"
+}
